@@ -1,2 +1,2 @@
-# rhmanginsay.github.io
+# Ralph Manginsay
 Personal Website
